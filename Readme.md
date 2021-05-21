@@ -183,7 +183,7 @@ Thanks goes to these wonderful people ✨✨:
 <img src="https://github.com/Vi1234sh12/Face-X/blob/master/.github/Assests/qww.png" height="380px" width="50%" align="left"/>
 <p style="clear:both;">
 <h1><a name="contributing"></a><a name="community"></a> <a href="https://github.com/akshitagupta15june/Face-X">Community</a> and <a href="https://github.com/akshitagupta15june/Face-X/blob/master/CONTRIBUTING.md">Contributing</a></h1>
-<p>Please do! Contributions, updates, <a href="https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> and <a href=" ">pull requests</a> are welcome. This project is community-built and welcomes collaboration. Contributors are expected to adhere to the <a href="https://github.com/akshitagupta15june/Face-X/blob/master/CODE_OF_CONDUCT.md/"><a href=``https://github.com/akshitagupta15june/Face-X/blob/master/CODE_OF_CONDUCT.md/">Code of Conduct</a>.
+<p>Please do! Contributions, updates, <a href="https://github.com/akshitagupta15june/Face-X/issues"></a> <a href=``https://github.com/akshitagupta15june/Face-X/issues"></a> and <a href=" ">pull requests</a> are welcome. This project is community-built and welcomes collaboration. Contributors are expected to adhere to the <a href="https://github.com/akshitagupta15june/Face-X/blob/master/CODE_OF_CONDUCT.md/"><a href=``https://github.com/akshitagupta15june/Face-X/blob/master/CODE_OF_CONDUCT.md/"><a href=``https://github.com/akshitagupta15june/Face-X/blob/master/CODE_OF_CONDUCT.md/"><a href=``https://github.com/akshitagupta15june/Face-X/blob/master/CODE_OF_CONDUCT.md/">Code of Conduct</a>.
 </p>
 <p>
 Jump into our <a href="https://discord.com/invite/Jmc97prqjb">Discord</a>! Our projects are community-built and welcome collaboration. 👍Be sure to see the <a href="https://github.com/akshitagupta15june/Face-X/blob/master/Readme.md">Face-X Community Welcome Guide</a> for a tour of resources available to you.
@@ -191,5 +191,6 @@ Jump into our <a href="https://discord.com/invite/Jmc97prqjb">Discord</a>! Our p
 <p>
 <i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/akshitagupta15june/Face-X/issues">labels</a>
 </p>
+
 
 
